@@ -155,8 +155,8 @@ def create_live_stream(app, sensors, buffer_size=100):
     return add_value
 
 
-DEVICE_ID = b"01212861-b8d3-4303-ba87-aed9a5d26260"
-SECRET_KEY = b"Fq4lc!sK8YirZ6I2ndPMBvYfo"
+DEVICE_ID = b""
+SECRET_KEY = b""
 
 app = Dash(__name__)
 add_sensor = create_live_stream(app, ["X", "Y", "Z"])
