@@ -1,0 +1,10 @@
+activity,activity_name,source_csv,graph,photo
+0,no_activity,25_20260907161508.csv,evidence\no_activity\no_activity_1_graph.png,evidence\no_activity\no_activity_1_photo.jpg
+0,no_activity,6_20260907161113.csv,evidence\no_activity\no_activity_2_graph.png,evidence\no_activity\no_activity_2_photo.jpg
+0,no_activity,32_20260907161635.csv,evidence\no_activity\no_activity_3_graph.png,evidence\no_activity\no_activity_3_photo.jpg
+1,waving,96_20260907162942.csv,evidence\waving\waving_1_graph.png,evidence\waving\waving_1_photo.jpg
+1,waving,91_20260907162840.csv,evidence\waving\waving_2_graph.png,evidence\waving\waving_2_photo.jpg
+1,waving,67_20260907162346.csv,evidence\waving\waving_3_graph.png,evidence\waving\waving_3_photo.jpg
+2,shaking,143_20260907163921.csv,evidence\shaking\shaking_1_graph.png,evidence\shaking\shaking_1_photo.jpg
+2,shaking,135_20260907163742.csv,evidence\shaking\shaking_2_graph.png,evidence\shaking\shaking_2_photo.jpg
+2,shaking,115_20260907163335.csv,evidence\shaking\shaking_3_graph.png,evidence\shaking\shaking_3_photo.jpg
