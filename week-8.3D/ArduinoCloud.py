@@ -155,8 +155,8 @@ def create_live_stream(app, sensors, buffer_size=100):
     return add_value
 
 
-DEVICE_ID = b""
-SECRET_KEY = b""
+DEVICE_ID = b"Enter your own if you want to use it -> get it on Arduino IoT cloud"
+SECRET_KEY = b"Get the secret key by downloading the pdf you get when assigning a python THING"
 
 app = Dash(__name__)
 add_sensor = create_live_stream(app, ["X", "Y", "Z"])
